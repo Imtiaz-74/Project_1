@@ -1,0 +1,18 @@
+@media(min-width: 768px) {
+    .news{
+width: 40%;
+    }  
+}
+/* Card */
+.bg{
+    background:rgba(211, 212, 212, 0.678) ;
+}
+.dark{
+  background: rgb(92, 91, 91);
+  color: white;
+}
+#map{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+}
